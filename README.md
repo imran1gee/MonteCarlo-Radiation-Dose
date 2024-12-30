@@ -31,8 +31,7 @@ The simulation outputs include:
 - **Normalized 3D dose distribution data.**  
 - **Plots** illustrating the dose deposition within the water phantom.
 
-### Example Visualization
-![Dose Distribution](plots/example_dose_distribution.jpg)
+
 
 ---
 
