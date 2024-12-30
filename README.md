@@ -52,12 +52,6 @@ This simulation can be used for:
 
 ---
 
-## Repository Structure
-
-MonteCarlo-Radiation-Dose/ │ ├── MonteCarlo_Radiation_Dose_Simulation.ipynb # Main simulation notebook ├── plots/ # Visualization outputs ├── README.md # Project documentation ├── dose_distribution_HG.jpg # Example dose distribution plot ├── requirements.txt # Dependencies for reproducibility
-
-
----
 
 ## Acknowledgments
 
